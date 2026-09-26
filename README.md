@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/poojab17/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/poojab17/dsa/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/poojab17/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/poojab17/dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0946-validate-stack-sequences](https://github.com/poojab17/dsa/tree/master/0946-validate-stack-sequences) |
 | [1528-shuffle-string](https://github.com/poojab17/dsa/tree/master/1528-shuffle-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/poojab17/dsa/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/poojab17/dsa/tree/master/0543-diameter-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/poojab17/dsa/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
