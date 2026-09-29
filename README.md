@@ -167,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/poojab17/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/poojab17/dsa/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
