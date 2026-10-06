@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/poojab17/dsa/tree/master/0062-unique-paths) |
 | [0410-split-array-largest-sum](https://github.com/poojab17/dsa/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -194,4 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/poojab17/dsa/tree/master/0584-find-customer-referee) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/poojab17/dsa/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/poojab17/dsa/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
