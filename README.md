@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/poojab17/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/poojab17/dsa/tree/master/0669-trim-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/poojab17/dsa/tree/master/0938-range-sum-of-bst) |
+| [1192-critical-connections-in-a-network](https://github.com/poojab17/dsa/tree/master/1192-critical-connections-in-a-network) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/poojab17/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Range Minimum/Maximum Query
 |  |
@@ -220,4 +221,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/poojab17/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
+## Graph Theory
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/poojab17/dsa/tree/master/1192-critical-connections-in-a-network) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/poojab17/dsa/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/poojab17/dsa/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
