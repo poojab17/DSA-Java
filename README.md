@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/poojab17/dsa/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/poojab17/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/poojab17/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/poojab17/dsa/tree/master/0410-split-array-largest-sum) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/poojab17/dsa/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/poojab17/dsa/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/poojab17/dsa/tree/master/0072-edit-distance) |
 | [0410-split-array-largest-sum](https://github.com/poojab17/dsa/tree/master/0410-split-array-largest-sum) |
 ## Greedy
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/poojab17/dsa/tree/master/1192-critical-connections-in-a-network) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/poojab17/dsa/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
