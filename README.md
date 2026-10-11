@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/poojab17/dsa/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/poojab17/dsa/tree/master/2073-time-needed-to-buy-tickets) |
 | [2187-minimum-time-to-complete-trips](https://github.com/poojab17/dsa/tree/master/2187-minimum-time-to-complete-trips) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/poojab17/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/poojab17/dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
@@ -215,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/poojab17/dsa/tree/master/0062-unique-paths) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/poojab17/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
