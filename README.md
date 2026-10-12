@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/poojab17/dsa/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/poojab17/dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0200-number-of-islands](https://github.com/poojab17/dsa/tree/master/0200-number-of-islands) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/poojab17/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/poojab17/dsa/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/poojab17/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/poojab17/dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/poojab17/dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/poojab17/dsa/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/poojab17/dsa/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/poojab17/dsa/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/poojab17/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/poojab17/dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/poojab17/dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/poojab17/dsa/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/poojab17/dsa/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/poojab17/dsa/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/poojab17/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/poojab17/dsa/tree/master/0404-sum-of-left-leaves) |
@@ -241,4 +244,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/poojab17/dsa/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/poojab17/dsa/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/poojab17/dsa/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
