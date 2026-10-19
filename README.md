@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/poojab17/dsa/tree/master/1528-shuffle-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/poojab17/dsa/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/poojab17/dsa/tree/master/2073-time-needed-to-buy-tickets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/poojab17/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/poojab17/dsa/tree/master/2187-minimum-time-to-complete-trips) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/poojab17/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/poojab17/dsa/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/poojab17/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/poojab17/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/poojab17/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/poojab17/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/poojab17/dsa/tree/master/0410-split-array-largest-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/poojab17/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/poojab17/dsa/tree/master/2187-minimum-time-to-complete-trips) |
 ## Stack
 |  |
