@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/poojab17/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/poojab17/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/poojab17/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/poojab17/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/poojab17/dsa/tree/master/2351-first-letter-to-appear-twice) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/poojab17/dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/poojab17/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/poojab17/dsa/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/poojab17/dsa/tree/master/0402-remove-k-digits) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/poojab17/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/poojab17/dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/poojab17/dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/poojab17/dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/poojab17/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/poojab17/dsa/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/poojab17/dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search Tree
