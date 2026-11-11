@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/poojab17/dsa/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/poojab17/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/poojab17/dsa/tree/master/1768-merge-strings-alternately) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/poojab17/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2351-first-letter-to-appear-twice](https://github.com/poojab17/dsa/tree/master/2351-first-letter-to-appear-twice) |
 | [3174-clear-digits](https://github.com/poojab17/dsa/tree/master/3174-clear-digits) |
 ## Queue
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/poojab17/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/poojab17/dsa/tree/master/0410-split-array-largest-sum) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/poojab17/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/poojab17/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/poojab17/dsa/tree/master/2187-minimum-time-to-complete-trips) |
 ## Stack
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/poojab17/dsa/tree/master/0410-split-array-largest-sum) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/poojab17/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/poojab17/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/poojab17/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/poojab17/dsa/tree/master/0643-maximum-average-subarray-i) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/poojab17/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/poojab17/dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search Tree
 |  |
